@@ -42,7 +42,7 @@ public class InfoUsuarioServiceImpl implements InfoUsuarioService {
 
 		ResponseInfoUsuarioDTO responseInfo = null;
 
-		if (!existeCorreo) {
+		if (existeCorreo) {
 			StatusResponse status = new StatusResponse();
 			status.setCodigo(String.valueOf(HttpStatus.BAD_REQUEST.value()));
 			status.setMensaje(Arrays.asList(GlobalConstants.MENSAJE_ERROR_EXISTS_EMAIL));
