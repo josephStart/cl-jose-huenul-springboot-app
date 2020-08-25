@@ -4,10 +4,10 @@ public class GlobalConstants {
 	
 	//Security JWT
 	public static final String SECURITY_JWT_TOKEN_HEADER = "Authorization";
-	public static final String SECURITY_JWT_TOKEN_PREFIX = "Bearer ";
+	public static final String SECURITY_JWT_TOKEN_PREFIX = "Bearer";
 	public static final String SECURITY_JWT_TOKEN_SECRET = "mySecretKey";
 	
-	public static final String MENSAJE_ERROR_EXISTS_EMAIL = "El correo ingresa ya existe";
+	public static final String MENSAJE_ERROR_EXISTS_EMAIL = "El correo ingresado ya existe";
 	public static final String MENSAJE_ERROR_BLANK_NAME = "El nombre no puede estar vacio";
 	public static final String MENSAJE_ERROR_BLANK_EMAIL = "El email no puede venir vacio";
 	public static final String MENSAJE_ERROR_BLANK_PASSWORD = "La contraseña no puede venir vacia";
