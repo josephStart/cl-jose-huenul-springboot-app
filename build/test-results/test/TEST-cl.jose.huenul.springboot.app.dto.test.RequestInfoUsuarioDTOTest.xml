@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.jose.huenul.springboot.app.dto.test.RequestInfoUsuarioDTOTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-27T02:56:16" hostname="DESKTOP-C3NMK7I" time="0.007">
+  <properties/>
+  <testcase name="Test para clase RequestInfoUsuarioDTO metodo getName" classname="cl.jose.huenul.springboot.app.dto.test.RequestInfoUsuarioDTOTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.jose.huenul.springboot.app.dto.test.TelefonoDTOTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-08-27T02:56:16" hostname="DESKTOP-C3NMK7I" time="0.006">
+  <properties/>
+  <testcase name="Test para clase TelefonoDTO metodo getCityCode" classname="cl.jose.huenul.springboot.app.dto.test.TelefonoDTOTest" time="0.005"/>
+  <testcase name="Test para clase TelefonoDTO metodo getCountryCode" classname="cl.jose.huenul.springboot.app.dto.test.TelefonoDTOTest" time="0.0"/>
+  <testcase name="Test para clase TelefonoDTO metodo getNumber" classname="cl.jose.huenul.springboot.app.dto.test.TelefonoDTOTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
