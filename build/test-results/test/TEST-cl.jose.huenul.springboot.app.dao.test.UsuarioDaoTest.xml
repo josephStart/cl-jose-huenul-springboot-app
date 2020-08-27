@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cl.jose.huenul.springboot.app.dao.test.UsuarioDaoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-08-27T04:38:52" hostname="DESKTOP-C3NMK7I" time="0.146">
-  <properties/>
-  <testcase name="Test para metodo existsByEmail, caso para cuando el correo existe" classname="cl.jose.huenul.springboot.app.dao.test.UsuarioDaoTest" time="0.135"/>
-  <testcase name="Test para metodo existsByEmail, caso para cuando el correo NO existe" classname="cl.jose.huenul.springboot.app.dao.test.UsuarioDaoTest" time="0.011"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
