@@ -35,6 +35,8 @@ target/
 *.sar
 *.class
 
+!gradle/wrapper/gradle-wrapper.jar
+
 build/
 lib/
 out/
