@@ -15,7 +15,7 @@ class InfoUsuarioSecurityTest extends Specification{
 	def "Evaluar token NOTNULL"(){
 		given:
 			def	infoUsuarioSecurity = new InfoUsuarioSecurity()
-			def user = new Usuario(name: 'joseph', email: 'joseph@test.com')
+			def user = new Usuario(name: 'joseph', email: 'josephs@test.com')
 		when:
 			def valor = infoUsuarioSecurity.getJWTToken(user) 
 		then:
