@@ -37,6 +37,7 @@ public class InfoUsuarioServiceImpl implements InfoUsuarioService {
 	@Override
 	public ResponseEntity<Object> obtenerUsuarioCreado(RequestInfoUsuarioDTO requestDTO) {
 		LOG.info("Inicio - obtenerUsuarioCreado");
+		LOG.info("requestDTO.toString(): " + requestDTO.toString());
 		ResponseEntity<Object> response = null;
 		boolean existeCorreo = usuarioDao.existsByEmail(requestDTO.getEmail());
 
