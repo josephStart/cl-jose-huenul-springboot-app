@@ -35,3 +35,15 @@ target/
 *.sar
 *.class
 
+!gradle/wrapper/gradle-wrapper.jar
+
+build/
+lib/
+out/
+.gradle/
+.idea/
+*.iml
+*.ipr
+*.iws
+/bin/
+
