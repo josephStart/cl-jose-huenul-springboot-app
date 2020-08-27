@@ -35,3 +35,12 @@ target/
 *.sar
 *.class
 
+build/
+lib/
+out/
+.gradle/
+.idea/
+*.iml
+*.ipr
+*.iws
+
